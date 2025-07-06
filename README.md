@@ -1,6 +1,6 @@
 # I’m Mehakdeep Singh (Meki)
 
-![Animation](./mee.gif)
+![Animation](./Mee.gif)
 
 ---
 
